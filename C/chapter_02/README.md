@@ -1,6 +1,22 @@
+# 📌 Chapter 02 – Conditionals
+
+### Exercise 01 – Basic If-Else Example
+
+## 📝 Description
+
+A simple program that classifies an integer as positive, negative, or zero using `if-else` statements.
+
+**Key Concepts:**
+- Basic conditional logic
+- User input with `scanf()`
+---
+
+### Exercise 02 
 # 🌡️ Temperature Clothing Selector
 
 ## 📝 Description
+
+
 A simple C program that recommends appropriate clothing based on the current temperature. (using condicionals);
 
 ## Features
@@ -27,6 +43,3 @@ A simple C program that recommends appropriate clothing based on the current tem
 - 20-25°C: "Moderate temperature, wear a sweatshirt or light jacket"
 - 25-30°C: "Warm weather, wear a t-shirt"
 - 30-35°C: "Very hot weather, CAREFUL, stay hydrated"
-
-## 🤝 Contributions
-Pull requests are welcome!
