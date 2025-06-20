@@ -14,5 +14,8 @@ This folder contains basic C programming exercises, developed as part of my lear
 
 - [Exercise 01 – Hello World](chapter_01/exercise_01.c)
 
+### Chapter 02 - Conditionals If-else-elseif
+- [Exercise 02 - Conditionals](chapter_02/exercice_02.c)
+
 
 > 📌 More exercises and chapters will be added progressively as I advance in my C programming studies.
