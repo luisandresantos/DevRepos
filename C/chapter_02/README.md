@@ -43,3 +43,34 @@ A simple C program that recommends appropriate clothing based on the current tem
 - 20-25°C: "Moderate temperature, wear a sweatshirt or light jacket"
 - 25-30°C: "Warm weather, wear a t-shirt"
 - 30-35°C: "Very hot weather, CAREFUL, stay hydrated"
+
+## Exercise 03 – IMC Calculator
+
+**📝 Description**  
+A program that calculates the Body Mass Index (IMC) based on user input for height and weight, then classifies it using conditionals.
+
+**⚙️ Features**  
+- Takes height (in meters) and weight (in kilograms) as input  
+- Calculates IMC using the formula: `IMC = weight / (height * height)`  
+- Displays classification based on IMC ranges (e.g., underweight, normal, overweight)
+
+**🔑 Key Concepts**  
+- Input handling with `scanf()`  
+- Arithmetic operations  
+- Conditional classification logic
+
+---
+
+## Exercise 04 – Average Grade Calculator
+
+**📝 Description**  
+A program that calculates the average of multiple student grades and determines if the student passed or failed.
+
+**⚙️ Features**  
+- Accepts multiple grades from the user  
+- Computes the average  
+- Uses conditionals to check if the average meets a passing threshold
+
+**🔑 Key Concepts**  
+- Conditional checks for pass/fail criteria  
+- Basic arithmetic and user interaction
